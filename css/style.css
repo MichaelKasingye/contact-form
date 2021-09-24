@@ -70,12 +70,13 @@ h3 {
   color: #636e72;
 }
 
-.contact_container {
-  color: #636e72;
-  background-color: #eee;
-}
+
 button{
-  color:black;
+  margin-left: 10px;
+  color:white;
+  background-color:#3F51B5;
+  border: none;
+
 }
 button:hover{
   background-color:#B2BEC3;
@@ -85,14 +86,7 @@ button:active{
   background-color:#FFFFFF;
   color:black;
 }
-/* contact */
-.contact-links {
-  font-size: 1rem;
-  word-spacing: 1.4rem;
-}
-.contact-links a {
-  color: blue;
-}
+
 .footer {
   background-color: #b2bec3;
   color: #636e72;
