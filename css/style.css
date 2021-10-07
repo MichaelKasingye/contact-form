@@ -13,7 +13,7 @@ html {
 @import url("https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;400&display=swap");
 body {
   /* background-color: #eee; */
-  background-color: black;
+  background-color: white;
 }
 li {
   list-style: none;
@@ -22,10 +22,10 @@ a {
   text-decoration: none;
 }
 .navbar {
-  background-color: black;
+  background-color: white;
 }
 .navbar_color {
-  background-color: black;
+  background-color: white;
   opacity: 0.7;
 }
 .navbar a {
@@ -40,7 +40,7 @@ h3 {
   font-weight: bold;
   border: 2px solid whitesmoke;
   border-radius: 5px;
-  background-color: whitesmoke;
+  background-color: white;
   color: black;
   font-family: arial;
   letter-spacing: 5px;
